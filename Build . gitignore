@@ -10,13 +10,12 @@ android {
         applicationId "com.shiva2567.kfc"
         minSdk 24
         targetSdk 32
-        versionCode 1
-        versionName "1.0"
+        version code1
+        versionName"1.0"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
-
-    buildTypes {
+buildTypes {
         release {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
