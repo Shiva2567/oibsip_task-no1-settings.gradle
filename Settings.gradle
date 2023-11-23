@@ -1,0 +1,9 @@
+plug in mangement{
+repositories{
+  grade plugeinportal()
+  google()
+  maven central()
+}
+}
+root project.name="KFC"
+include':app'
