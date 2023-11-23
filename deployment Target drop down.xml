@@ -1,0 +1,17 @@
+<?xml version="1.0"encoding="UTF-8"?>
+<project version="4">
+  <Component name ="deployment Target drop down">
+    <Target selected with drop down>
+      <target>
+        <type value="Quick_Boot_Target"/>
+        <device key>
+          <key>
+            <type value="virtual_Device_path"/>
+            <value value="C:/users/Shiva/.android\avd\pixel_4_API_27_2.avd"/>
+          </key>
+        </device key>
+      </Target>
+    <Target selected with drop down>
+      <time Target was selected with drop down value="2023-11-23"/>
+    </compoent>
+    </project>
