@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <Component name= Gradlemigration settings"migration version="1"/>
+    <Compnent name="Gradle setting>
+      <option name="linked external projects settings">
+      <Gradle project settings>
+      <option name="test Runner" value=GRADLE>
+        <option name"distribution type"values=DeFAULT-WRAPPED"/>
+      <option name= "external project path"value="$project-Dir$"/>
+      <option name="modules">
+        <set>
+          <option value="$project_DIR$"/>
+            <option value="$project_DIR$/app"/>
+        </set>
+      </option>
+      </Gradle project settings>
+    </option>
+    </Component>
+    </project>
+        
