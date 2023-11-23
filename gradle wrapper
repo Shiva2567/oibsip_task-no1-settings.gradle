@@ -1,0 +1,6 @@
+distribution Base =GRADE_USER_HOME
+distribution URL https\:/services.greadle.org/distribution/gradle bin.zip
+distribution path=wrapper/dists
+zip Store path=wrapper/digits
+zip Store base=GRADE_USER_HOME
+
